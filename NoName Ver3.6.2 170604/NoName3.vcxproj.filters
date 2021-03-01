@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="01. NoName">
+      <UniqueIdentifier>{c247048e-09fd-4f51-94d6-f36ee2a91795}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork">
+      <UniqueIdentifier>{3313a076-60c9-4f72-8a50-b3c4df21e230}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine">
+      <UniqueIdentifier>{945d299f-7593-479c-9a4d-d5aab494b970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Game">
+      <UniqueIdentifier>{91f1188d-5df7-4844-9c14-823194486a27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. Shader">
+      <UniqueIdentifier>{fdc86304-1e06-4663-b77a-bb01b0db2b98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Resource">
+      <UniqueIdentifier>{1077cf6f-60db-4699-84d2-6df1eb63e9ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. PCH">
+      <UniqueIdentifier>{e73865e8-0e30-4297-b9e9-8c71e41eaa79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork\01. CQGraphic">
+      <UniqueIdentifier>{b6c2f663-613a-4ab7-852b-f681c35738f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork\03. CQSound">
+      <UniqueIdentifier>{884e746b-120b-405f-859e-4a8de20cfe56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork\04. CQIO">
+      <UniqueIdentifier>{1d47b92d-0c51-4e5c-a00e-4c6829b74b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. Shader\ColorShader">
+      <UniqueIdentifier>{c79ec44d-3268-42f9-8bc8-330ca82a3f19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine\01. CQTimer">
+      <UniqueIdentifier>{e67e5247-7966-493e-af51-2066f8b3c6c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. Shader\LightShader">
+      <UniqueIdentifier>{be39d886-b789-4bfc-a3c0-3dbc6eb0c45d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Game\GameObject">
+      <UniqueIdentifier>{279b0f6c-b856-4871-b67d-5862386a1368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Game\GameObject\ColorBox">
+      <UniqueIdentifier>{bbbf278e-9475-44d1-8e3f-5268d6a89be6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Game\GameObject\TextureBox">
+      <UniqueIdentifier>{3b0e2ff2-9761-48b9-8cd3-083ef8e9c356}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Resource\Sound">
+      <UniqueIdentifier>{b5464a96-ce98-477b-a9e4-6f5b84cac0c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Resource\Sound\BGM">
+      <UniqueIdentifier>{85d584d6-157d-4511-9e5a-ebf5ea46a491}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Resource\Sound\Effect">
+      <UniqueIdentifier>{07e07016-3f52-41d1-8b3c-e1011b6534fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Resource\Texture">
+      <UniqueIdentifier>{48f4364c-7b43-42a2-8953-6bb576b50258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Resource\Font">
+      <UniqueIdentifier>{e3217c7d-f61f-40e7-a887-aa7658317d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. Shader\TextureShader">
+      <UniqueIdentifier>{099976a4-54d9-4b4a-9e95-6734c53d5d16}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="05. Game\Texture">
+      <UniqueIdentifier>{be45328f-ae7a-49fa-b248-baf5c3a0f5cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine\99. Manager">
+      <UniqueIdentifier>{e8ca54d1-c473-4c82-8bf5-88583b6a2a91}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine\99. Manager\Key">
+      <UniqueIdentifier>{d9f362e9-8c09-4c2d-9ff9-ac7f04d6ab94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine\99. Manager\Time">
+      <UniqueIdentifier>{f386b766-d620-49cb-b6b0-3d7ca32567ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. PCH\pch">
+      <UniqueIdentifier>{b253f554-5915-4915-890e-9c616f30f939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine\99. Manager\XBox">
+      <UniqueIdentifier>{5313856d-65df-4725-bd11-8b047877e8be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork\01. CQGraphic\CQCamera">
+      <UniqueIdentifier>{a2da11a4-70c4-4958-9143-3b124e16e2b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork\01. CQGraphic\DX">
+      <UniqueIdentifier>{7d429a4e-fabc-472c-88fb-f027e23e41c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="03. Engine\99. Manager\NewFilter1">
+      <UniqueIdentifier>{a55cb68f-b7d1-45c7-b02d-22ae19202621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. FrameWork\01. CQGraphic\CQSprite">
+      <UniqueIdentifier>{31241057-aa1d-4792-adcb-85e4de13549c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>99. PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\NoName.cpp">
+      <Filter>01. NoName</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQGraphic.cpp">
+      <Filter>02. FrameWork\01. CQGraphic</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DX.cpp">
+      <Filter>02. FrameWork\01. CQGraphic\DX</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQCamera.cpp">
+      <Filter>02. FrameWork\01. CQGraphic\CQCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader\ColorShader.cpp">
+      <Filter>97. Shader\ColorShader</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQTimer.cpp">
+      <Filter>03. Engine\01. CQTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader\CQShader.cpp">
+      <Filter>97. Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader\LightShader.cpp">
+      <Filter>97. Shader\LightShader</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQSound.cpp">
+      <Filter>02. FrameWork\03. CQSound</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQBGM.cpp">
+      <Filter>02. FrameWork\03. CQSound</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQEffectSound.cpp">
+      <Filter>02. FrameWork\03. CQSound</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader\TextureShader.cpp">
+      <Filter>97. Shader\TextureShader</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQTexture.cpp">
+      <Filter>05. Game\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQTextureBox.cpp">
+      <Filter>05. Game\GameObject\TextureBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQColorBox.cpp">
+      <Filter>05. Game\GameObject\ColorBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQObject.cpp">
+      <Filter>05. Game\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\CQSingleton.cpp">
+      <Filter>03. Engine\99. Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\CQKeyMgr.cpp">
+      <Filter>03. Engine\99. Manager\Key</Filter>
+    </ClCompile>
+    <ClCompile Include="Manager\CQXBoxMgr.cpp">
+      <Filter>03. Engine\99. Manager\XBox</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\DDSTextureLoader.cpp">
+      <Filter>05. Game\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQElement2D.cpp">
+      <Filter>02. FrameWork\01. CQGraphic\CQSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQSpriteBatch.cpp">
+      <Filter>02. FrameWork\01. CQGraphic\CQSprite</Filter>
+    </ClCompile>
+    <ClCompile Include="Include\CQSpriteFont.cpp">
+      <Filter>02. FrameWork\01. CQGraphic\CQSprite</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>99. PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\NoName.h">
+      <Filter>01. NoName</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQGraphic.h">
+      <Filter>02. FrameWork\01. CQGraphic</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DX.h">
+      <Filter>02. FrameWork\01. CQGraphic\DX</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQCamera.h">
+      <Filter>02. FrameWork\01. CQGraphic\CQCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader\ColorShader.h">
+      <Filter>97. Shader\ColorShader</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQTimer.h">
+      <Filter>03. Engine\01. CQTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader\CQShader.h">
+      <Filter>97. Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader\LightShader.h">
+      <Filter>97. Shader\LightShader</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQSound.h">
+      <Filter>02. FrameWork\03. CQSound</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQBGM.h">
+      <Filter>02. FrameWork\03. CQSound</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQEffectSound.h">
+      <Filter>02. FrameWork\03. CQSound</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader\TextureShader.h">
+      <Filter>97. Shader\TextureShader</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQTexture.h">
+      <Filter>05. Game\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQTextureBox.h">
+      <Filter>05. Game\GameObject\TextureBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQColorBox.h">
+      <Filter>05. Game\GameObject\ColorBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQObject.h">
+      <Filter>05. Game\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\CQSingleton.h">
+      <Filter>03. Engine\99. Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\CQKeyMgr.h">
+      <Filter>03. Engine\99. Manager\Key</Filter>
+    </ClInclude>
+    <ClInclude Include="pch\CQdefine.h">
+      <Filter>99. PCH\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="pch\CQFrameWork.h">
+      <Filter>99. PCH\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="pch\CQEngine.h">
+      <Filter>99. PCH\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="pch\CQGame.h">
+      <Filter>99. PCH\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="pch\CQShader.h">
+      <Filter>99. PCH\pch</Filter>
+    </ClInclude>
+    <ClInclude Include="Manager\CQXBoxMgr.h">
+      <Filter>03. Engine\99. Manager\XBox</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\DDSTextureLoader.h">
+      <Filter>05. Game\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQElement2D.h">
+      <Filter>02. FrameWork\01. CQGraphic\CQSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQSpriteBatch.h">
+      <Filter>02. FrameWork\01. CQGraphic\CQSprite</Filter>
+    </ClInclude>
+    <ClInclude Include="Include\CQSpriteFont.h">
+      <Filter>02. FrameWork\01. CQGraphic\CQSprite</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Shader\ColorShader.fx">
+      <Filter>97. Shader\ColorShader</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\LightShader.fx">
+      <Filter>97. Shader\LightShader</Filter>
+    </FxCompile>
+    <FxCompile Include="Shader\TextureShader.fx">
+      <Filter>97. Shader\TextureShader</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\Texture\UITest.dds">
+      <Filter>98. Resource\Texture</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Font\ClearGothic.spritefont">
+      <Filter>98. Resource\Font</Filter>
+    </None>
+  </ItemGroup>
+</Project>
